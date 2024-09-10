@@ -8,14 +8,14 @@ version:
 iconUrl: 
 summary: This is sample page creation for certification -005
 levels:
-- 3
+- 0
 skills:
-- C#, SQL, VB,F#
+- 
 roles:
 - 
-type: Page-009
+type: 
 products:
-- Products-009
+- 
 practiceAssessmentUid: '0'
 lastUpdated: 
 hideExamSandbox: False
@@ -23,7 +23,7 @@ examDurationInMinutes: 0
 examPricingType: ''
 courseUid: 
 subjects:
-  - Subjects-009
+  - 
 locales:
 - 
 providers:
@@ -31,6 +31,6 @@ providers:
    examUrl: 
 resources:
 - title: 
-  description: Resources-Description009
+  description: 
   href: 
   
