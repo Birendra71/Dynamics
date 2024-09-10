@@ -3,34 +3,34 @@ title: 'Certificate Page-005'
 metadata:
   title: 'Certificate Page-005'
   description: 'This is sample page creation for certification -005'
-uid: 123-123-456
+uid: f9e8a484-92b9-42d2-9fce-4ddfa8b754e7
 version: 
 iconUrl: 
 summary: This is sample page creation for certification -005
 levels:
-- 0
+- 1
 skills:
-- 
+- C#, JS
 roles:
 - 
-type: 
+type: fundamentals
 products:
-- 
-practiceAssessmentUid: '0'
+- Azure
+practiceAssessmentUid: '67'
 lastUpdated: 
-hideExamSandbox: False
-examDurationInMinutes: 0
+hideExamSandbox: True
+examDurationInMinutes: 30
 examPricingType: ''
-courseUid: 
+courseUid: course-89
 subjects:
-  - 
+  - database
 locales:
-- 
+- en-us
 providers:
  - providerType: 
    examUrl: 
 resources:
-- title: 
-  description: 
-  href: 
+- title: Resources
+  description: resources_description
+  href: https://resource.url
   
