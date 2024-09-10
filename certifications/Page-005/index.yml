@@ -15,7 +15,7 @@ roles:
 - 
 type: Type-005
 products:
-- Products-006
+- Products-007
 practiceAssessmentUid: '5555'
 lastUpdated: 
 hideExamSandbox: True
@@ -23,7 +23,7 @@ examDurationInMinutes: 5
 examPricingType: ''
 courseUid: f4efb18d-627a-41f1-ad69-eff1d901840e
 subjects:
-  - Subjects-005
+  - Subjects-007
 locales:
 - en-us
 providers:
