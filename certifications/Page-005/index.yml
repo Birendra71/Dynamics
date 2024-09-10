@@ -1,0 +1,36 @@
+### YamlMime:Certification
+title: 'Certificate Page-005'
+metadata:
+  title: 'Certificate Page-005'
+  description: 'This is sample page creation for certification -005'
+uid: d506e92a-a627-4100-b35c-8e8914623e12
+version: 
+iconUrl: 
+summary: This is sample page creation for certification -005
+levels:
+- 1
+skills:
+- C#, SQL, Python
+roles:
+- 
+type: Page-005
+products:
+- Products-005
+practiceAssessmentUid: '5'
+lastUpdated: 
+hideExamSandbox: True
+examDurationInMinutes: 20
+examPricingType: ''
+courseUid: 500
+subjects:
+  - Subjects-005
+locales:
+- en-us
+providers:
+ - providerType: 
+   examUrl: 
+resources:
+- title: Resources_Title
+  description: Resources_Description
+  href: https://Resources_URL
+  
