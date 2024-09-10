@@ -8,18 +8,18 @@ version:
 iconUrl: 
 summary: This is sample page creation for certification -005
 levels:
-- 0
+- 2
 skills:
-- C#, JS, .Net, Azure
+- C#, JS, .Net, Azure, CS
 roles:
 - 
-type: Learning
+type: Learning Type
 products:
 - 
 practiceAssessmentUid: '0'
 lastUpdated: 
 hideExamSandbox: False
-examDurationInMinutes: 45
+examDurationInMinutes: 0
 examPricingType: ''
 courseUid: 
 subjects:
