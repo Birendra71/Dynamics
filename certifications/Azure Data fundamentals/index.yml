@@ -8,7 +8,7 @@ summary: This is sample page creation for certification -005
 levels:
 - 2
 skills:
-- 
+- C#
 roles:
 - 
 type: Role-based
@@ -20,7 +20,7 @@ examDurationInMinutes: 100
 examPricingType: ''
 courseUid: course.az-100to00
 subjects:
-  - 
+  - database
 locales:
 - en
 providers:
