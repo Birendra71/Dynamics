@@ -1,0 +1,36 @@
+### YamlMime:Certification
+title: 'Azure data fundamentals'
+metadata:
+  title: 'Azure data fundamentals'
+  description: 'This is sample page creation for certification -005'
+uid: certification.azure-data-fundamentals
+version: 
+iconUrl: 
+summary: This is sample page creation for certification -005
+levels:
+- 1
+skills:
+- C#, Java
+roles:
+- 
+type: fundamentals
+products:
+- Azure
+practiceAssessmentUid: '45'
+lastUpdated: 
+hideExamSandbox: True
+examDurationInMinutes: 45
+examPricingType: ''
+courseUid: course-az-10200
+subjects:
+  - Databases
+locales:
+- en-us
+providers:
+ - providerType: 
+   examUrl: 
+resources:
+- title: Resources_azure-data-fundamentals
+  description: Resources_Description
+  href: https://Resources_url
+  
