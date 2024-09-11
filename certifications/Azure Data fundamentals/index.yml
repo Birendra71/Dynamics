@@ -3,29 +3,29 @@ title: 'Azure Data fundamentals'
 metadata:
   title: 'Azure Data fundamentals'
   description: 'This is sample page creation for certification -005'
-uid: 
+uid: certifications.d365-finance-and-operations-apps-developer-associate
 version: 
 iconUrl: 
 summary: This is sample page creation for certification -005
 levels:
-- 0
+- 2
 skills:
 - 
 roles:
 - 
-type: 
+type: Role-based
 products:
-- 
-practiceAssessmentUid: '0'
+- Power Apps
+practiceAssessmentUid: '57'
 lastUpdated: 
 hideExamSandbox: False
-examDurationInMinutes: 0
+examDurationInMinutes: 100
 examPricingType: ''
-courseUid: 
+courseUid: course.az-100to00
 subjects:
   - 
 locales:
-- 
+- en
 providers:
  - providerType: 
    examUrl: 
