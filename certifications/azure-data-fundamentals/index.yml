@@ -2,18 +2,19 @@
 title: 'Azure data fundamentals'
 metadata:
   title: 'Azure data fundamentals'
-  description: 'This is sample page creation for certification -005'
-uid: certification.azure-data-fundamentals
+  description: 'This is the description'
+uid: certification.azure-data-fundamentals123
 version: 
 iconUrl: 
-summary: This is sample page creation for certification -005
+summary: This is the description
 levels:
 - 1
 skills:
 - C#, Java
+.Net core
 roles:
 - 
-type: fundamentals
+type: role-based
 products:
 - Azure
 practiceAssessmentUid: '45'
