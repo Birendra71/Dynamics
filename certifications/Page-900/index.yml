@@ -12,7 +12,11 @@ This is a new certification
 levels:
 - 1
 skills:
-- 
+- •	The English language version of this exam was updated on July 15, 2024. Review the study guide linked in the preceding “Tip” box for details about the skills measured and latest changes.
+•	Deploy and manage a Microsoft 365 tenant (10-15%)
+•	Implement and manage Microsoft Entra identity and access (25-30%)
+•	Manage security and threats by using Microsoft Defender XDR (35–40%)
+•	Manage compliance by using Microsoft Purview (15–20%)
 roles:
 - 
 type: Fundamentals
