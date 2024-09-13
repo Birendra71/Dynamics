@@ -21,14 +21,14 @@ roles:
 - 
 type: Fundamentals
 products:
-- 
+- azure
 lastUpdated: 
 hideExamSandbox: False
 examDurationInMinutes: 0
 examPricingType: ''
 courseUid: 
 subjects:
-  - 
+  - artificial-intelligence
 locales:
 - 
 providers:
