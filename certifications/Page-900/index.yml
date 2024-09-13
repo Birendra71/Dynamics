@@ -24,18 +24,18 @@ products:
 - azure
 lastUpdated: 
 hideExamSandbox: False
-examDurationInMinutes: 0
+examDurationInMinutes: 100
 examPricingType: ''
-courseUid: 
+courseUid: course.az-900t00
 subjects:
   - artificial-intelligence
 locales:
-- 
+- en
 providers:
  - providerType: 
    examUrl: 
 resources:
-- title: 
-  description: 
-  href: 
+- title: Exam Az-900 study guide
+  description: Focus your studies as you prepare for the exam. Review the study guide to learn about the topics the exam covers, updates, and additional resources.
+  href: https://aka.ms/ai900-StudyGuide
   
