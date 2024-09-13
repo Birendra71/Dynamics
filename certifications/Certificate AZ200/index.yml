@@ -1,0 +1,33 @@
+### YamlMime:Certification
+title: 'Create Certificate AZ200'
+metadata:
+  title: 'Create Certificate AZ200'
+  description: '~description~'
+uid: certificate.az200
+summary: ~description~
+levels:
+- 1
+skills:
+- C#, Web API
+roles:
+- 
+type: Fundamentals
+products:
+- Azure
+lastUpdated: 
+hideExamSandbox: False
+examDurationInMinutes: 45
+examPricingType: ''
+courseUid: course.az200-100
+subjects:
+  - Databases
+locales:
+- en-us
+providers:
+ - providerType: 
+   examUrl: 
+resources:
+- title: Certificate resources
+  description: This is a certificate resouce
+  href: https://www.az200resource.com
+  
