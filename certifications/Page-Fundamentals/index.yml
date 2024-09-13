@@ -24,16 +24,16 @@ lastUpdated:
 hideExamSandbox: False
 examDurationInMinutes: 45
 examPricingType: ''
-courseUid: 
+courseUid: course.id
 subjects:
   - database
 locales:
-- 
+- en-us
 providers:
  - providerType: 
    examUrl: 
 resources:
-- title: 
-  description: 
-  href: 
+- title: Resources
+  description: Description
+  href: https://resources.com
   
