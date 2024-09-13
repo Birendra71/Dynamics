@@ -1,0 +1,33 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Data Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure Data Fundamentals'
+  description: 'This is sample page creation for certification -005'
+uid: certification.azure-data-fundamentals
+summary: This is sample page creation for certification -005
+levels:
+- 1
+skills:
+- Describe core data concepts
+roles:
+- 
+type: fundamentals
+products:
+- azure
+lastUpdated: 
+hideExamSandbox: False
+examDurationInMinutes: 45
+examPricingType: ''
+courseUid: course.dp-900t00
+subjects:
+  - databases
+locales:
+- en-us
+providers:
+ - providerType: 
+   examUrl: 
+resources:
+- title: Exam DP-900 study guide
+  description: Focus your studies as you prepare for the exam. Review the study guide to learn about the topics the exam covers, updates, and additional resources.
+  href: https://aka.ms/dp900-StudyGuide
+  
