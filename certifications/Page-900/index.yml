@@ -1,41 +1,35 @@
 ### YamlMime:Certification
-title: 'Azure-900'
+title: 'Cert-900'
 metadata:
-  title: 'Azure-900'
-  description: 'This is a new certification
-This is a new certification
-This is a new certification'
-uid: Certification.azure-900
-summary: This is a new certification
-This is a new certification
-This is a new certification
+  title: 'Cert-900'
+  description: 'Create a page for executing an exam which will take courses and 3 exams. This page should also have interactivities and web based activities.
+Create a page for executing an exam which will take courses and 3 exams. This page should also have interactivities and web based activities.'
+uid: Yhhj
+summary: Create a page for executing an exam which will take courses and 3 exams. This page should also have interactivities and web based activities.
+Create a page for executing an exam which will take courses and 3 exams. This page should also have interactivities and web based activities.
 levels:
-- 1
+- 0
 skills:
-- •	The English language version of this exam was updated on July 15, 2024. Review the study guide linked in the preceding “Tip” box for details about the skills measured and latest changes.
-•	Deploy and manage a Microsoft 365 tenant (10-15%)
-•	Implement and manage Microsoft Entra identity and access (25-30%)
-•	Manage security and threats by using Microsoft Defender XDR (35–40%)
-•	Manage compliance by using Microsoft Purview (15–20%)
+- 
 roles:
 - 
-type: Fundamentals
+type: 
 products:
-- azure
+- 
 lastUpdated: 
 hideExamSandbox: False
-examDurationInMinutes: 100
+examDurationInMinutes: 0
 examPricingType: ''
-courseUid: course.az-900t00
+courseUid: 
 subjects:
-  - artificial-intelligence
+  - 
 locales:
-- en
+- 
 providers:
  - providerType: 
    examUrl: 
 resources:
-- title: Exam Az-900 study guide
-  description: Focus your studies as you prepare for the exam. Review the study guide to learn about the topics the exam covers, updates, and additional resources.
-  href: https://aka.ms/ai900-StudyGuide
+- title: 
+  description: 
+  href: 
   
