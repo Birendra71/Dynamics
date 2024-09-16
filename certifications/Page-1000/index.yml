@@ -1,0 +1,33 @@
+### YamlMime:Certification
+title: 'Certificate Page-1000'
+metadata:
+  title: 'Certificate Page-1000'
+  description: ''
+uid: TestUID-93786876
+summary: 
+levels:
+- 0
+skills:
+- C# and J++,h@@
+roles:
+- 
+type: XYZ
+products:
+- Products 100
+lastUpdated: 
+hideExamSandbox: False
+examDurationInMinutes: 0
+examPricingType: ''
+courseUid: 
+subjects:
+  - 
+locales:
+- 
+providers:
+ - providerType: 
+   examUrl: 
+resources:
+- title: Resources-Title
+  description: Resources-Description
+  href: http:// resourse-url
+  
