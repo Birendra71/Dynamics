@@ -18,7 +18,7 @@ lastUpdated:
 hideExamSandbox: False
 examDurationInMinutes: 100
 examPricingType: ''
-courseUid: 
+courseUid: course.az1000to00
 subjects:
   - Microsoft Power Apps
 locales:
