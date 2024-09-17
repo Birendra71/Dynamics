@@ -32,7 +32,7 @@ providers:
  - providerType: 
    examUrl: 
 resources:
-- title: 
-  description: 
-  href: 
+- title: Certification poster
+  description: Check out an overview of fundamentals, role-based, and specialty certifications.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
   
