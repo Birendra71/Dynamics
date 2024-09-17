@@ -6,7 +6,7 @@ metadata:
 uid: certification.finance-and-operations
 summary: You should have a deep knowledge and experience using the underlying framework, data structures, and objects associated with the finance and operations solutions.
 levels:
-- 0
+- 1
 skills:
 - 
 roles:
@@ -20,7 +20,7 @@ examDurationInMinutes: 0
 examPricingType: ''
 courseUid: 
 subjects:
-  - 
+  - Microsoft Power Apps
 locales:
 - 
 providers:
