@@ -3,26 +3,26 @@ title: 'Az-1000'
 metadata:
   title: 'Az-1000'
   description: 'Test the certification page'
-uid: 
+uid: certificate.az-1000
 summary: Test the certification page
 levels:
-- 0
+- 1
 skills:
-- 
+- C#, Java
 roles:
 - 
-type: 
+type: fundamentas
 products:
-- 
+- azure
 lastUpdated: 
 hideExamSandbox: False
-examDurationInMinutes: 0
+examDurationInMinutes: 45
 examPricingType: ''
-courseUid: 
+courseUid: course.az-1000
 subjects:
-  - 
+  - databases
 locales:
-- 
+- ru
 providers:
  - providerType: 
    examUrl: 
