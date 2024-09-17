@@ -22,7 +22,7 @@ courseUid: course.az1000to00
 subjects:
   - Microsoft Power Apps
 locales:
-- 
+- en
 providers:
  - providerType: 
    examUrl: 
