@@ -27,7 +27,7 @@ providers:
  - providerType: 
    examUrl: 
 resources:
-- title: 
-  description: 
-  href: 
+- title: title
+  description: desc
+  href: https://url
   
