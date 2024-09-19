@@ -3,26 +3,26 @@ title: 'AI Demo-1'
 metadata:
   title: 'AI Demo-1'
   description: 'Create a page for executing an exam which will take courses and 3 exams. This page should also have interactivities and web based activities.'
-uid: hjk
+uid: sdfwerw
 summary: Create a page for executing an exam which will take courses and 3 exams. This page should also have interactivities and web based activities.
 levels:
 - 2
 skills:
-- dfgd
+- 
 roles:
-- fgs
-type: reg
+- 
+type: werw
 products:
-- sdf
+- 
 lastUpdated: 
 hideExamSandbox: False
-examDurationInMinutes: 34
+examDurationInMinutes: 0
 examPricingType: ''
-courseUid: dfgd
+courseUid: 
 subjects:
-  - dgfdf
+  - 
 locales:
-- dfgd
+- 
 providers:
  - providerType: 
    examUrl: 
