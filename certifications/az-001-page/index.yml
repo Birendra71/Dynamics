@@ -5,31 +5,31 @@ metadata:
   description: 'ewrw sdferee'
 uid: asda
 version: 2
-iconUrl: wqeq
+iconUrl: ~new_cert_iconurl~
 summary: ~summary~
 levels:
 - Intermediate
 skills:
-- asda
+- ~new_skills~
 roles:
-- sada
-type: asda
+- ~new_roles~
+type: ~new_type~
 products:
-- asda
-practiceAssessmentUid: '12'
-lastUpdated: 2dfgdgdg
-hideExamSandbox: False
-examDurationInMinutes: 233434
-examPricingType: ''
-courseUid: dfserf
+- ~new_products~
+practiceAssessmentUid: '~new_practiceassessmentuid~'
+lastUpdated: ~new_lastupdated~
+hideExamSandbox: ~new_hideexamsandbox~
+examDurationInMinutes: ~new_examduration~
+examPricingType: '~examPricingType~'
+courseUid: ~new_courseuid~
 subjects:
-  - asda
+  - ~new_subjects~
 locales:
-- asd
+- ~new_locale~
 providers:
- - providerType: pearson_vue
-   examUrl: https://asda
+ - providerType: ~new_provider~
+   examUrl: ~new_examurl~
 resources:
-- title: asa
-  description: as
-  href: https://asa
+- title: ~new_title~
+  description: ~new_description~
+  href: ~new_resourceurl~
