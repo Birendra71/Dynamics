@@ -1,0 +1,24 @@
+### YamlMime:Certification
+title: '1New case'
+metadata:
+  title: '1New case'
+  description: ''
+uid: 123123
+version: 3
+iconUrl: ~new_cert_iconurl~
+summary: ~summary~
+levels:
+- Intermediate
+skills:
+- ~new_skills~products:
+- ~new_products~
+practiceAssessmentUid: '~new_practiceassessmentuid~'
+lastUpdated: ~new_lastupdated~
+hideExamSandbox: ~new_hideexamsandbox~
+examDurationInMinutes: ~new_examduration~
+examPricingType: '~examPricingType~'
+courseUid: ~new_courseuid~
+subjects:
+  - ~new_subjects~
+locales:
+- ~new_locale~
