@@ -1,0 +1,44 @@
+### YamlMime:Certification
+title: 'Azure Developersss'
+metadata:
+  title: 'Azure Developersss'
+  description: 'This is a new certification with exams and practice tests.'
+uid: certification.azure-developer
+version: 2
+iconUrl: sadfgrhj/assd/asasfa/badege.jpg
+summary: ~summary~
+levels:
+- Advanced
+skills:
+- skills1
+skills2
+roles:
+- ~new_roles~
+type: ~new_type~
+products:
+- ~new_products~
+practiceAssessmentUid: '0'
+lastUpdated: 
+hideExamSandbox: False
+examDurationInMinutes: 12
+examPricingType: '~examPricingType~'
+video:
+- title: provider resource
+  summary: provider resource descriotion
+  url: ~new_url~
+video:
+- title: provider resource
+  summary: provider resource descriotion
+  url: ~new_url~
+courseUid: 
+subjects:
+  - ~new_subjects~
+locales:
+- ~new_locale~
+providers:
+- providerType: pearson_vue
+  examUrl: https://pearson-exam1.com
+resources:
+- title: provider resource
+  description: provider resource descriotion
+  href: https://provider.coom
