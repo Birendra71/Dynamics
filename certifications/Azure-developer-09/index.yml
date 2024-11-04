@@ -1,0 +1,34 @@
+### YamlMime:Certification
+title: 'Azure-developer-09'
+metadata:
+  title: 'Azure-developer-09'
+  description: 'This is a certification meant fro Azure developers and others.'
+uid: certification.azure-developer
+version: 2
+iconUrl: /images/certification/badge.svg
+summary: | -
+  This is a certification meant fro Azure developers.
+levels:
+- Beginner
+skills:
+- Skillsets like Azure, C# etc
+roles:
+- auditor
+type: mos
+products:
+- ai-vision
+hideExamSandbox: False
+examPricingType: 'DP'
+
+courseUid: course.az-400t00
+subjects:
+  - artificial-intelligence
+locales:
+- el-gr
+providers:
+- providerType: pearson_vue
+  examUrl: https://gotolink.ms.com
+resources:
+- title: Resources
+  description: Resources Description
+  href: https://gotolink.ms.com
