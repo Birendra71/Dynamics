@@ -1,0 +1,38 @@
+### YamlMime:Examination
+hidden: False
+title: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+metadata:
+  title: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+  description: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+uid: exam.az-400
+displayName: AZ-400
+summary: | -
+  AAAA-DevOps engineers are developers or infrastructure administrators who also have subject matter expertise in working with people, processes, and products to enable continuous delivery of value in organizations.  
+
+  Responsibilities for this role include designing and implementing strategies for collaboration, code, infrastructure, source control, security, compliance, continuous integration, testing, delivery, monitoring, and feedback.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: configure processes and communications; design and implement source control; design and implement build and release pipelines; develop a security and compliance plan; and implement an instrumentation strategy.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+providers:
+- providerType: pearson_vue
+  examUrl: https://go.microsoft.com/fwlink/?linkid=2188917
+locales:
+- en-my
+levels:
+- Beginner
+skills:
+- The English language version of this exam was updated on May 2, 2023. Review the study guide linked in the preceding “Tip” box for details about the skills measured and latest changes. 
+- Configure processes and communications (10-15%)
+- Design and implement source control (15-20%)
+- Design and implement build and release pipelines (40-45%)
+- Develop a security and compliance plan (10-15%)
+- Implement an instrumentation strategy (10-15%)
+studyGuide:
+- uid: learn.wwl.az-400-get-started-devops-transformation-journey
+courses:
+- uid: az-400t00
+resources:
+- title: Journey to certification
+  description: Explore steps to get certified as a DevOps Engineer Expert and the resources available to help you prepare.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
+
+  
