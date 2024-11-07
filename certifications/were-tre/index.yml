@@ -1,0 +1,32 @@
+### YamlMime:Certification
+title: 'Exam AZ-400: Diesigning and Implementing Microsoft DevOps Solutions'
+metadata:
+  title: 'Exam AZ-400: Diesigning and Implementing Microsoft DevOps Solutions'
+  description: 'wsfc'
+uid: certification.azure-developer
+version: 2
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: | -
+  sdfs
+levels:
+- Beginner
+skills:
+- asda
+roles:
+- business-owner
+type: mos
+products:
+- active-directory
+hideExamSandbox: False
+examPricingType: '98'
+
+courseUid: course.az-400t00
+subjects:
+  - asset-management
+locales:
+- en-my
+
+resources:
+- title: sda
+  description: asd
+  href: https://asd
