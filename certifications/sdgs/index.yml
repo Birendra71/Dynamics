@@ -1,0 +1,28 @@
+### YamlMime:Certification
+title: 'fdss'
+metadata:
+  title: 'fdss'
+uid: certification.sdfs
+version: 23
+iconUrl: asdsd
+summary: | -
+  sdfs
+levels:
+- Beginner
+roles:
+- business-owner
+type: mcse
+products:
+- active-directory-federation-services
+hideExamSandbox: False
+examPricingType: 'DP'
+
+locales:
+- en-my
+providers:
+- providerType: pearson_vue
+  examUrl: https://sdf
+resources:
+- title: sdf
+  description: dsf
+  href: https://sdf
