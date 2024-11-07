@@ -1,0 +1,22 @@
+### YamlMime:Certification
+title: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+metadata:
+  title: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+  description: 'sdsaf'
+uid: certification.azure-developer
+version: 243
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: | -
+  sdfs
+levels:
+- Advanced
+roles:
+- business-owner
+type: mos
+products:
+- aks-edge-essentials
+hideExamSandbox: False
+
+locales:
+- en-my
+
