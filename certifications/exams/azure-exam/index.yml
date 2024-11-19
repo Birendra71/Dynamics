@@ -1,0 +1,28 @@
+### YamlMime:Examination
+hidden: False
+title: 'Exam azure dev cert'
+metadata:
+  title: 'Exam azure dev cert'
+uid: exam.az-400
+displayName: azure yglj;k
+summary: | -
+  dfghj
+subTitle: 'asda'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+
+locales:
+- el-gr
+levels:
+- Intermediate
+skills:
+- asaa
+studyGuide:
+- uid: learn.wwl.az-400-get-started-devops-transformation-journey
+courses:
+- uid: az-400t00
+resources:
+- title: Journey to certification
+  description: AAS
+  href: https://SDFGH
+
+  
