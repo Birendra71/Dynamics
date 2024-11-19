@@ -1,0 +1,21 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Data Structure'
+metadata:
+  title: 'Microsoft Certified: Data Structure'
+uid: certification.data-structure
+version: 2
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: | -
+  This is the summary of data structure
+levels:
+- Beginner
+roles:
+- data-engineer
+type: fundamentals
+products:
+- aspnet
+hideExamSandbox: False
+
+locales:
+- en-my
+
