@@ -1,0 +1,24 @@
+### YamlMime:Certification
+title: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+metadata:
+  title: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+uid: certification.wqeq
+version: 12
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: | -
+  accsa
+levels:
+- Intermediate
+roles:
+- administrator
+type: mos
+products:
+- aks-edge-essentials
+hideExamSandbox: False
+
+courseUid: course.az-400t00
+subjects:
+  - asset-management
+locales:
+- en-my
+
