@@ -1,0 +1,23 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure Fundamentals'
+uid: certification.azure-fundamentals
+version: 1
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+summary: | -
+  This is the summary
+levels:
+- Beginner
+skills:
+- Skills
+roles:
+- ai-edge-engineer
+type: fundamentals
+products:
+- active-directory
+hideExamSandbox: False
+
+locales:
+- en
+
