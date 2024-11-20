@@ -1,0 +1,28 @@
+### YamlMime: AppliedSkills
+hidden: True
+labProfileId: '56789'
+metadata:
+  title: 'testing3 by hm'
+  description: "file creation test"
+title: 'testing3 by hm'
+uid: applied-skill.werwrwh
+levels:
+ - Beginner
+roles:
+ - administrator
+products:
+ - active-directory
+subjects:
+ - accessibility
+locales:
+ - ar-sa
+summary: | -
+  testing for file creation
+tasks:
+ - file creation
+studyGuide:
+ - uid: filecreation
+resources:
+- title: file creation test
+  description: file creation Test
+  href: http://www.ugiubj.com
