@@ -1,0 +1,29 @@
+### YamlMime:Certification
+title: 'Create Azure Virtual Desktop Specialty'
+metadata:
+  title: 'Create Azure Virtual Desktop Specialty'
+uid: certification.azure-virtual-desktop-Specialty
+version: 1
+iconUrl: meda/sdgfhvjhftyrstfgh
+summary: | -
+  As a candidate for this certification, you should be a server or desktop administrator with subject matter expertise in designing, implementing, managing, and maintaining Microsoft Azure Virtual Desktop experiences and remote apps for any device.
+
+To deliver these experiences, you should work closely with:
+
+Azure administrators
+Azure architects
+Microsoft 365 administrators
+Azure security engineers
+Azure Stack HCI administrators
+levels:
+- Intermediate
+roles:
+- ai-engineer
+type: role-based
+products:
+- ai-services
+hideExamSandbox: False
+
+locales:
+- en
+
