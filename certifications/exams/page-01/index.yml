@@ -1,0 +1,33 @@
+### YamlMime:Examination
+hidden: False
+title: 'Exam Page-01'
+metadata:
+  title: 'Exam Page-01'
+  description: 'Metadata Description'
+uid: exam.AZ-Exam-01
+displayName: AZ-Exam-01
+summary: | -
+  Summary
+subTitle: 'Subtitle'
+iconUrl: http://iconurl.com
+practiceTestUrl: http://PracticetestURL.com
+practiceAssessmentUid: "1"
+providers:
+- providerType: pearson_vue
+  examUrl: http://Provider.com
+locales:
+- en
+levels:
+- Advanced
+skills:
+- c#
+studyGuide:
+- uid: Study Guide
+courses:
+- uid: AZ-T00
+resources:
+- title: Resources Title
+  description: Resources Description
+  href: https://Resources URL
+
+  
