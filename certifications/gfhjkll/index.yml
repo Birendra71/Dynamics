@@ -1,0 +1,26 @@
+### YamlMime:Certification
+title: 'gfhjkll'
+metadata:
+  title: 'gfhjkll'
+uid: certification.azure-developer
+version: 2
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: | -
+  wew
+levels:
+- Beginner
+skills:
+- wew
+roles:
+- business-owner
+type: mcse
+products:
+- appsource
+hideExamSandbox: False
+
+courseUid: course.az-400t00
+subjects:
+  - asset-management
+locales:
+- en
+
