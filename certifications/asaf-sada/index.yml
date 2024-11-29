@@ -1,0 +1,31 @@
+### YamlMime:Certification
+title: 'asaf sada'
+metadata:
+  title: 'asaf sada'
+uid: certification.azure-developer
+version: 2
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: | -
+  asda
+levels:
+- Advanced
+skills:
+- asda
+roles:
+- business-owner
+type: mos
+products:
+- appsource
+practiceAssessmentUid: '23'
+hideExamSandbox: False
+
+courseUid: course.az-400t00
+subjects:
+  - asset-management
+locales:
+- en-my
+
+resources:
+- title: Azure certifications poster
+  description: fasas
+  href: https://asac-sad
