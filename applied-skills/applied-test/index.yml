@@ -1,0 +1,48 @@
+### YamlMime: AppliedSkills
+hidden: True
+labProfileId: '1425'
+metadata:
+  title: 'Applied Test'
+  description: "Plan, deliver, manage, and monitor virtual desktop experiences and remote apps on Microsoft Azure for any device."
+title: 'Applied Test'
+uid: applied-skill.prepare-security-and-compliance-to-support-microsoft-copilot
+levels:
+ - Beginner
+roles:
+ - administrator
+products:
+ - ai-builder
+subjects:
+ - application-management
+locales:
+ - en
+summary: | -
+  As a candidate for this certification, you should be a server or desktop administrator with subject matter expertise in designing, implementing, managing, and maintaining Microsoft Azure Virtual Desktop experiences and remote apps for any device.
+
+To deliver these experiences, you should work closely with:
+
+Azure administrators
+Azure architects
+Microsoft 365 administrators
+Azure security engineers
+Azure Stack HCI administrators
+You should have experience with Azure technologies, including:
+
+Compute
+Networking
+Identity
+Storage
+Resiliency
+You should be able to manage end-user desktop environments, including delivering applications and configuring user settings. You should use the Azure portal, templates, scripting, and command-line tools to manage an Azure Virtual Desktop deployment.
+tasks:
+ - Azure administrators
+Azure architects
+Microsoft 365 administrators
+Azure security engineers
+Azure Stack HCI administrators
+studyGuide:
+ - uid: course.mb-240t00
+resources:
+- title: Az study guide
+  description: summary description
+  href: https://rdxghv.com
