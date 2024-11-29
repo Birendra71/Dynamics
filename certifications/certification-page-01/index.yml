@@ -1,0 +1,39 @@
+### YamlMime:Certification
+title: 'Certification Page-01'
+metadata:
+  title: 'Certification Page-01'
+  description: 'Meta Data Description'
+uid: certification.azure-developer
+version: 1
+iconUrl: /images/certification/badge.svg
+summary: | -
+  summery 01
+levels:
+- Advanced
+skills:
+- Java, Javascript
+roles:
+- business-owner
+type: fundamentals
+products:
+- ai-builder
+practiceAssessmentUid: '55'
+hideExamSandbox: True
+examDurationInMinutes: 45
+examPricingType: '70'
+video:
+- title: Video-title
+  summary: Video Summery-
+  url: http://xyz.com
+courseUid: course.az-400t00
+subjects:
+  - app-development
+locales:
+- en-my
+providers:
+- providerType: pearson_vue
+  examUrl: https://examcert.com
+resources:
+- title: Resources-Title
+  description: Resources-Desc
+  href: https://Resources.com
