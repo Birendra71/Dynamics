@@ -1,0 +1,28 @@
+### YamlMime:Examination
+hidden: False
+title: 'Exam DP-200: Implementing an Azure Data Solution'
+metadata:
+  title: 'Exam DP-200: Implementing an Azure Data Solution'
+uid: exam.dp-200
+displayName: DP-200
+summary: | -
+  Candidates for this exam are Microsoft Azure data engineers who collaborate with business stakeholders to identify and meet the data requirements to implement data solutions that use Azure data services.
+
+Azure data engineers are responsible for data-related implementation tasks that include provisioning data storage services, ingesting streaming and batch data, transforming data, implementing security requirements, implementing data retention policies, identifying performance bottlenecks, and accessing external data sources.
+
+Candidates for this exam must be able to implement data solutions that use the following Azure services: Azure Cosmos DB, Azure Synapse Analytics (formerly Azure SQL DW), Azure Data Factory, Azure Stream Analytics, Azure Databricks, and Azure Blob storage.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: implement data storage solutions; manage and develop data processing; and monitor and optimize data solutions.'
+iconUrl: /media/exam.svg
+
+locales:
+- en
+levels:
+- Beginner
+
+
+resources:
+- title: Support for certification exams
+  description: Get help through Microsoft Certification support forums. A forum moderator will respond in one business day, Monday-Friday.
+  href: https://exams.com
+
+  
