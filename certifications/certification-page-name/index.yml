@@ -1,0 +1,29 @@
+### YamlMime:Certification
+title: 'certification page name'
+metadata:
+  title: 'certification page name'
+uid: certification.azure-developer
+version: 1
+iconUrl: http://icon.jpg
+summary: | -
+  Summary
+levels:
+- Intermediate
+skills:
+- C#,Javascript
+roles:
+- administrator
+type: mce
+products:
+- active-directory
+practiceAssessmentUid: '11'
+hideExamSandbox: False
+examDurationInMinutes: 45
+examPricingType: '77'
+
+courseUid: course.az-400t00
+subjects:
+  - accessibility
+locales:
+- ar-sa
+
