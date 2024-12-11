@@ -1,0 +1,21 @@
+### YamlMime:Certification
+title: 'Test certification'
+metadata:
+  title: 'Test certification'
+uid: certification.azure-dev-365
+version: 1
+iconUrl: /media/icon.svg
+summary: | -
+  Demonstrate how to configure a Microsoft Dynamics 365 for Field Service implementation to maximize tools and features available while managing a mobile work force.
+levels:
+- Beginner
+roles:
+- administrator
+type: fundamentals
+products:
+- active-directory-federation-services
+hideExamSandbox: False
+
+locales:
+- en
+
