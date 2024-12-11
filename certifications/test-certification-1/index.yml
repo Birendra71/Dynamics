@@ -1,0 +1,31 @@
+### YamlMime:Certification
+title: 'Test certification 1'
+metadata:
+  title: 'Test certification 1'
+  description: 'Demonstrate how to configure a Microsoft Dynamics 365 for Field Service implementation to maximize tools and features available while managing a mobile work force.'
+uid: certification.azure-dev-365
+version: 1
+iconUrl: /media/icon.svg
+summary: | -
+  Demonstrate how to configure a Microsoft Dynamics 365 for Field Service implementation to maximize tools and features available while managing a mobile work force.
+levels:
+- Beginner
+roles:
+- administrator
+type: fundamentals
+products:
+- active-directory-federation-services
+practiceAssessmentUid: '57'
+hideExamSandbox: False
+examDurationInMinutes: 100
+examPricingType: 'MO'
+video:
+- title: Devops Video
+  summary: VIDEO RRLATED TO DEVOPS DEVELOPER
+  url: HTTPS://VIDEO.DEVOPS.MP4
+courseUid: course.mb-260t00
+locales:
+- en
+providers:
+- providerType: certiport
+  examUrl: https://certiport.devops.com
