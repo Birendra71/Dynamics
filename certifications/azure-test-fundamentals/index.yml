@@ -1,0 +1,23 @@
+### YamlMime:Certification
+title: 'azure-test-fundamentals'
+metadata:
+  title: 'azure-test-fundamentals'
+uid: certification.azure-test-fundamentals
+version: 1
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: | -
+  Summary Text
+levels:
+- Beginner
+skills:
+- Azure
+roles:
+- ai-edge-engineer
+type: fundamentals
+products:
+- aks-edge-essentials
+hideExamSandbox: False
+
+locales:
+- en
+
