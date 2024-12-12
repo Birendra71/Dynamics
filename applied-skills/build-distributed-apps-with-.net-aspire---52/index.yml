@@ -1,0 +1,35 @@
+### YamlMime: AppliedSkills
+hidden: True
+labProfileId: '14256'
+metadata:
+  title: 'Microsoft Applied Skills: Build distributed apps with .NET Aspire - 52'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+title: 'Microsoft Applied Skills: Build distributed apps with .NET Aspire - 52'
+uid: applied-skill.distributed-apps
+levels:
+ - Beginner
+roles:
+ - auditor
+products:
+ - ai-services
+subjects:
+ - application-management
+locales:
+ - el-gr
+summary: | -
+  To earn this Microsoft Applied Skills credential, learners demonstrate the ability to build distributed apps with .NET Aspire.
+
+Candidates for this credential should have experience building .NET apps and containerized solutions with C#.
+tasks:
+ - Add .NET Aspire to a solution
+Configure service discovery
+Configure components
+Monitor resources with the .NET Aspire dashboard
+Create tests with .NET Aspire
+Prepare for deployment
+studyGuide:
+ - uid: learn.dotnet-aspire
+resources:
+- title: Applied Skills poster
+  description: Explore all credentials in a concise guide.
+  href: https://Applied-Skills-poster
