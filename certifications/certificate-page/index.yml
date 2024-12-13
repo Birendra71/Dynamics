@@ -1,0 +1,21 @@
+### YamlMime:Certification
+title: 'certificate page'
+metadata:
+  title: 'certificate page'
+uid: certification.assdqe
+version: 23
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: | -
+  ewrw
+levels:
+- Intermediate
+roles:
+- business-owner
+type: mos
+products:
+- aks-edge-essentials
+hideExamSandbox: False
+
+locales:
+- en-my
+
