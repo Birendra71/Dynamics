@@ -1,0 +1,31 @@
+### YamlMime: AppliedSkills
+hidden: False
+labProfileId: '14578'
+metadata:
+  title: 'Dynamic 365 AI Creator Developer Fundamentals'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+title: 'Dynamic 365 AI Creator Developer Fundamentals'
+uid: applied-skill.Dynamic-365-AI-Creator
+levels:
+ - Advanced
+roles:
+ - ai-engineer
+products:
+ - ai-services
+subjects:
+ - architecture
+locales:
+ - en
+summary: | -
+  This course teaches Azure administrators how to plan, deliver, and manage virtual desktop experiences and remote apps, for any device, on Azure. Lessons include implementing and managing networking for Azure Virtual Desktop, configuring host pools and session hosts, creating session host images, implementing, and managing FSLogix, monitoring Azure Virtual Desktop performance and health, and automating Azure Virtual Desktop management tasks. Students will learn through a mix of demonstrations and hands-on lab experiences deploying virtual desktop experiences and apps on Azure Virtual Desktop and optimizing them to run in multi-session virtual environments. Candidates of this course must have solid Azure administration skills. This course assumes prior experience, including virtualization, networking, identity, storage, backup and restore, and disaster recovery. Students should have knowledge of on-premises virtual desktop infrastructure technologies as they relate to migrating to Azure Virtual Desktop. Students are expected to have used the tools common to the Azure environment, such as the Azure PowerShell and Cloud Shell.
+tasks:
+ - Plan and implement an Azure Virtual Desktop infrastructure
+Plan and implement identity and security
+Plan and implement user environments and apps
+Monitor and maintain an Azure Virtual Desktop infrastructure
+studyGuide:
+ - uid: course.az-140t00
+resources:
+- title: Applied Skills AZ-140 study guide
+  description: Focus your studies as you prepare for the exam. Review the study guide to learn about the topics the exam covers, updates, and additional resources.
+  href: https://Applied-Skills-AZ-140-study-guide
