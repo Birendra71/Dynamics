@@ -1,0 +1,23 @@
+### YamlMime:Certification
+title: 'azure-fundamentals-az100'
+metadata:
+  title: 'azure-fundamentals-az100'
+uid: certification.azure-fundamentals-az100
+version: 1
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: | -
+  This is summary
+levels:
+- Beginner
+skills:
+- Fundamentals
+roles:
+- administrator
+type: fundamentals
+products:
+- active-directory-federation-services
+hideExamSandbox: False
+
+locales:
+- en
+
