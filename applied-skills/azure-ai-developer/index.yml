@@ -1,0 +1,36 @@
+### YamlMime: AppliedSkills
+hidden: True
+labProfileId: '142567'
+metadata:
+  title: 'Applied Skills: Azure AI Developer'
+title: 'Applied Skills: Azure AI Developer'
+uid: applied-skill.azure-ai-developer
+products:
+ - ai-builder
+summary: | -
+  As a candidate for this certification, you should be a server or desktop administrator with subject matter expertise in designing, implementing, managing, and maintaining Microsoft Azure Virtual Desktop experiences and remote apps for any device.
+
+To deliver these experiences, you should work closely with:
+
+Azure administrators
+Azure architects
+Microsoft 365 administrators
+Azure security engineers
+Azure Stack HCI administrators
+You should have experience with Azure technologies, including:
+
+Compute
+Networking
+Identity
+Storage
+Resiliency
+tasks:
+ - Plan and implement an Azure Virtual Desktop infrastructure
+Plan and implement identity and security
+Plan and implement user environments and apps
+Monitor and maintain an Azure Virtual Desktop infrastructure
+
+resources:
+- title: Applied Skills AZ-140 study guide
+  description: Focus your studies as you prepare for the exam. Review the study guide to learn about the topics the exam covers, updates, and additional resources.
+  href: https://applied-skills-az-104-study-guide
