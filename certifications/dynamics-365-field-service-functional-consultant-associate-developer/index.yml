@@ -1,0 +1,58 @@
+### YamlMime:Certification
+title: 'Dynamics 365 Field Service Functional Consultant Associate Developer'
+metadata:
+  title: 'Dynamics 365 Field Service Functional Consultant Associate Developer'
+  description: 'Plan, deliver, manage, and monitor virtual desktop experiences and remote apps on Microsoft Azure for any device.'
+uid: certification.Dynamics-365-Field-Service-Functional-Consultant Associate
+version: 2
+iconUrl: /media/certification.svg
+summary: | -
+  As a candidate for this certification, you’re a Microsoft Dynamics 365 Field Service functional consultant. You’re responsible for implementing solutions that:
+
+Schedule resources to meet customer requirements.
+Optimize resources by matching skills, locations, and availability.
+Equip frontline workers with the information and tools to deliver great service.
+Build a service history of customer assets.
+You’re responsible for:
+
+Configuring the default administration areas of the Field Service application.
+Configuring resources and scheduling.
+Configuring service agreements and booking setups.
+Managing work orders, incident types, and bookings.
+Managing customer assets.
+Installing and configuring the Field Service mobile app.
+Enhancing Field Service based on customer requirements.
+levels:
+- Advanced
+skills:
+- Configure field service applications
+Manage work orders and customer assets
+Schedule and dispatch work orders
+Manage the Field Service mobile app
+Manage inventory and purchasing by using the built-in inventory management system
+Implement Microsoft Power Platform
+roles:
+- ai-engineer
+type: fundamentals
+products:
+- ai-builder
+practiceAssessmentUid: '56'
+hideExamSandbox: False
+examDurationInMinutes: 100
+examPricingType: 'MO'
+video:
+- title: Certification Exam Video Tutorial
+  summary: Explained scenario about how to take this certification exam
+  url: https://certification.exam-tutorial-video.mp4
+courseUid: course.course.az-140t00
+subjects:
+  - artificial-intelligence
+locales:
+- en
+providers:
+- providerType: pearson_vue
+  examUrl: https://certifications.exam.pearson-view-exam-az-140.com
+resources:
+- title: Exam MB-240 Study Guide
+  description: Focus your studies as you prepare for the exam. Review the study guide to learn about the topics the exam covers, updates, and additional resources.
+  href: https://Exam MB-240 Study Guide.md
