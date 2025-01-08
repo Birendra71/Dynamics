@@ -1,0 +1,46 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Fabric Data Engineer Associate01'
+metadata:
+  title: 'Microsoft Certified: Fabric Data Engineer Associate01'
+  description: 'As a fabric data engineer, you should have subject matter expertise with data loading patterns, data architectures, and orchestration processes.'
+uid: certification.Fabric Data Engineer Associate
+version: 1
+iconUrl: \media\certification\fundamentals.svg
+summary: | -
+  As a candidate for this exam, you should have subject matter expertise with data loading patterns, data architectures, and orchestration processes. Your responsibilities for this role include:
+
+Ingesting and transforming data.
+Securing and managing an analytics solution.
+Monitoring and optimizing an analytics solution.
+You work closely with analytics engineers, architects, analysts, and administrators to design and deploy data engineering solutions for analytics.
+levels:
+- Beginner
+skills:
+- Implement and manage an analytics solution
+Ingest and transform data
+Monitor and optimize an analytics solution
+roles:
+- ai-engineer
+type: fundamentals
+products:
+- ai-builder
+practiceAssessmentUid: '65'
+hideExamSandbox: False
+examDurationInMinutes: 100
+examPricingType: '98'
+video:
+- title: Az-700 Video
+  summary: Practice Video
+  url: https://certification.video.az-700
+courseUid: course.az-700t00
+subjects:
+  - application-management
+locales:
+- en
+providers:
+- providerType: pearson_vue
+  examUrl: https://certification.exam.pearson-vue.az-700
+resources:
+- title: Exam DP-700 study guide
+  description: Focus your studies as you prepare for the exam. Review the study guide to learn about the topics the exam covers, updates, and additional resources
+  href: https://certification.study-guide.dp-700
