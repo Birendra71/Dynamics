@@ -1,0 +1,29 @@
+### YamlMime:Examination
+hidden: False
+title: 'Exam DP-700: Implementing Data Engineering Solutions Using Microsoft Fabric (beta)'
+metadata:
+  title: 'Exam DP-700: Implementing Data Engineering Solutions Using Microsoft Fabric (beta)'
+uid: exam.exam-dp-700
+displayName: Exam DP-700: Implementing Data Engineering Solutions Using Microsoft Fabric (beta)
+summary: | -
+  As a candidate for this exam, you should have subject matter expertise with data loading patterns, data architectures, and orchestration processes. Your responsibilities for this role include:
+
+Ingesting and transforming data.
+Securing and managing an analytics solution.
+Monitoring and optimizing an analytics solution.
+You work closely with analytics engineers, architects, analysts, and administrators to design and deploy data engineering solutions for analytics.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: ingesting and transforming data; securing and managing an analytics solution; and monitoring and optimizing an analytics solution.'
+iconUrl: /media/exam.svg
+
+locales:
+- en
+levels:
+- Intermediate
+
+
+resources:
+- title: Exam Replay
+  description: Boost your odds of success with this great offer.
+  href: https://exa.replay
+
+  
