@@ -1,0 +1,40 @@
+### YamlMime:Examination
+hidden: False
+title: 'Exam DP-701: Implementing Data Engineering Solutions Using Microsoft Fabric (beta) 02'
+metadata:
+  title: 'Exam DP-701: Implementing Data Engineering Solutions Using Microsoft Fabric (beta) 02'
+  description: 'You work closely with analytics engineers, architects, analysts, and administrators to design and deploy data engineering solutions for analytics.'
+uid: exam.Implementing Data Engineering Solutions Using Microsoft Fabric (beta)
+displayName: Exam DP-701: Implementing Data Engineering Solutions Using Microsoft Fabric (beta)
+summary: | -
+  As a candidate for this exam, you should have subject matter expertise with data loading patterns, data architectures, and orchestration processes. Your responsibilities for this role include:
+
+Ingesting and transforming data.
+Securing and managing an analytics solution.
+Monitoring and optimizing an analytics solution.
+You work closely with analytics engineers, architects, analysts, and administrators to design and deploy data engineering solutions for analytics.
+subTitle: 'This exam measures your ability to accomplish the following technical tasks: ingesting and transforming data; securing and managing an analytics solution; and monitoring and optimizing an analytics solution.'
+iconUrl: /media/exam.svg
+practiceTestUrl: https://practice-test.exam.dp-700
+practiceAssessmentUid: "75"
+providers:
+- providerType: pearson_vue
+  examUrl: https://exam.pearson-vue-dp-700
+locales:
+- en
+levels:
+- Intermediate
+skills:
+- Implement and manage an analytics solution (30–35%)
+Ingest and transform data (30–35%)
+Monitor and optimize an analytics solution (30–35%)
+studyGuide:
+- uid: learn.dp-700
+courses:
+- uid: dp-700t00
+resources:
+- title: Exam Replay
+  description: Boost your odds of success with this great offer.
+  href: https://exa.replay
+
+  
