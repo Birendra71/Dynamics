@@ -1,0 +1,28 @@
+### YamlMime:Examination
+hidden: False
+title: 'Exam AZ-200: Microsoft Azure Developer Core Solutions'
+metadata:
+  title: 'Exam AZ-200: Microsoft Azure Developer Core Solutions'
+uid: exam.AZ-200: Microsoft Azure Developer Core Solutions
+displayName: AZ-200
+summary: | -
+  Candidates for this exam are Azure Developers who design and build cloud solutions such as applications and services. They participate in all phases of development, from solution design, to development and deployment, to testing and maintenance. They partner with cloud solution architects, cloud DBAs, cloud administrators, and clients to implement the solution.
+
+Candidates should be proficient in developing apps and services by using Azure tools and technologies, including storage, security, compute, and communications.
+
+Candidates must have at least one year of experience developing scalable solutions through all phases of software development and be skilled in at least one cloud-supported programming language.
+subTitle: 'Candidates for this exam are Azure Developers who design and build cloud solutions such as applications and services. They participate in all phases of development, from solution design, to development and deployment, to testing and maintenance. They partner with cloud solution architects, cloud DBAs, cloud administrators, and clients to implement the solution.'
+iconUrl: icon/exam.svg
+
+locales:
+- en
+levels:
+- Beginner
+
+
+resources:
+- title: Exam  AZ-200 Study Guide
+  description: Study guide  description
+  href: https://exam.study-guide.az-700
+
+  
