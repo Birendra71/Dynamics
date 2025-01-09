@@ -1,0 +1,49 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Administrator Associates 01'
+metadata:
+  title: 'Microsoft Certified: Azure Administrator Associates 01'
+  description: 'hdgbjfd'
+uid: certification.Azure Administrator Associates
+version: 2
+iconUrl: /icon/certification/fundamentals.svg
+summary: | -
+  As a candidate for this certification, you should have subject matter expertise in implementing, managing, and monitoring an organization’s Azure environment, including:
+
+Virtual networks
+Storage
+Compute
+Identity
+Security
+Governance
+As an Azure administrator, you often serve as part of a larger team dedicated to implementing an organization's cloud infrastructure. You also coordinate with other roles to deliver Azure networking, security, database, application development, and DevOps solutions.
+levels:
+- Intermediate
+skills:
+- Manage Azure identities and governance
+Implement and manage storage
+Deploy and manage Azure compute resources
+Implement and manage virtual networking
+Monitor and maintain Azure resources
+roles:
+- ai-edge-engineer
+type: fundamentals
+products:
+- active-directory-federation-services
+practiceAssessmentUid: '75'
+hideExamSandbox: False
+examDurationInMinutes: 100
+examPricingType: 'MO'
+video:
+- title: Video
+  summary: fjhbnkjasdnsf
+  url: https://gsdvhjbdfn
+courseUid: course.az100t00
+subjects:
+  - artificial-intelligence
+locales:
+- el-gr
+
+resources:
+- title: Resources
+  description: Description
+  href: https://
