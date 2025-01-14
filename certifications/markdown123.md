@@ -13,7 +13,7 @@ ms.service: learn
 
 # FAQ Help content updates
 
-# Exam duration
+## Exam duration
 
 The number of questions on a certification exam is subject to change as we make updates to ensure it aligns with current changes in the technology and job role. Most Microsoft Certification exams typically contain between 40-60 questions; however, the number can vary depending on the exam.
 
