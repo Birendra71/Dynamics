@@ -11,7 +11,6 @@ ms.author: v-bivin
 ms.service: learn
 ---
 
- # FAQ Help content updates
 
 ## Exam duration
 
