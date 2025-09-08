@@ -1,0 +1,14 @@
+ProfileID: "88"
+metadata:
+  atodata.type: #Microsoft.Dynamics.CRM.expando"
+  title: "Configure security information and event management (SIEM). operations using Microsoft Sentinel"
+  author:
+  last_updated: "2023-11-15"
+  duration: "3 hours"
+  level: "Intermediate"
+  products: "Microsoft Sentinel"
+  skills: "Security information and event management, SIEM, Microsoft Sentinel, Security operations"
+  languages: "English"
+  url: "https://learn.microsoft.com/en-us/training/paths/configure-security-information-event-management-operations-using-microsoft-sentinel/"
+overview: | -
+  This learning path guides you through configuring security information and event management (SIEM) operations using Microsoft Sentinel. It covers the deployment, configuration, and management of Microsoft Sentinel to monitor and respond to security threats effectively.
