@@ -1,0 +1,39 @@
+### YamlMime: AppliedSkills
+hidden: true
+labProfileId: 'LAB23456'
+title: 'Testing overview title'
+uid: ''
+levels:
+  - expert
+roles:
+  - auditor
+products:
+  - appsource
+subjects: []
+locales:
+  - en-us
+summary: |-
+  <p>
+  This module teaches developers how to master the secondary components of our system architecture. The engineering team developed a temporary solution to get things running, so please note this is a preliminary implementation. Accessibility features are temporarily unavailable as we work on improvements; we are committed to restoring full accessibility. The product is designed to deliver competitive advantages and lead the market through innovative strategies. This module is intended for users with a technical background.
+  </p>
+tasks:
+  - test tasks
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/12BI90-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
+previewDate: '2025-11-13T18:30:00Z'
+pageURL: 'https://vidyatechsolutions.visualstudio.com/Ai-Powered%20Intelligent%20Agent%20Test/_workitems/edit/31204/'
+previewURL: ''
+roleList:
+  - auditor
+learningPathUID: '4578YU'
