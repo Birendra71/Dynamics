@@ -1,0 +1,42 @@
+### YamlMime: AppliedSkills
+hidden: False
+labProfileId: 147586
+metadata:  
+    title: Microsoft Applied Skills: Train and manage a machine learning model with Azure Machine Learning -001
+    description: Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills.  
+    adobe-target: true
+title: Microsoft Applied Skills: Train and manage a machine learning model with Azure Machine Learning -001
+uid: 
+levels:  
+  - intermediate
+roles:
+  - ai-engineer
+products:
+  - ai-builder
+subjects:
+  - threat-protection
+locales:
+  - en-us  
+summary: |- To earn this Microsoft Applied Skills credential, learners demonstrate the ability to train and manage machine learning models with Azure Machine Learning.  
+
+Candidates for this credential should be familiar with Azure services and have experience with Azure Machine Learning and MLflow. Candidates should also have experience using Python to perform machine learning tasks. 
+tasks:
+  - Set up a development environment in Azure Machine Learning
+  - Prepare data for model training
+  - Create and configure a model training script as a command job
+  - Manage artifacts by using MLflow
+  - Deploy a model for real-time consumption
+
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL200-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
