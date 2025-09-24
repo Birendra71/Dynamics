@@ -1,6 +1,6 @@
 ### YamlMime: AppliedSkills
 hidden: false
-labProfileId: 'LAB12345'
+labProfileId: 'LAB123456'
 metadata:
   title: 'Build an Azure AI Vision solution'
   description: 'Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills'
@@ -22,6 +22,7 @@ subjects:
   - artificial-intelligence
 locales:
   - de-de
+  - en-us
 summary: |-
   This learning path guides you through creating specialized, targeted computer vision solutions for practical scenarios using Microsoft Azure AI services. It covers how to perform comprehensive analysis of image and video content, extract information, and build intelligent applications with Azure Cognitive Services. You will learn to implement computer vision capabilities such as image classification, object detection, and optical character recognition (OCR) using Azure tools and services. The path includes interactive, practical modules to help you develop practical skills in building and deploying computer vision solutions on Azure.
 tasks:
