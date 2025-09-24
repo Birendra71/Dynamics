@@ -1,0 +1,42 @@
+### YamlMime: AppliedSkills
+hidden: False
+labProfileId: LAB12345
+metadata:  
+    title: Build-an-Azure-AI-Vision-solution
+    description: Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills.
+    adobe-target: true
+title: Build-an-Azure-AI-Vision-solution
+uid: build-an-azure-ai-vision-solution
+levels:  
+  - intermediate
+roles:
+  - ai-engineer
+  - developer
+products:
+  - ai-services
+  - azure-computer-vision
+  - azure-face
+  - azure-video-indexer
+  - azure-ai-foundry
+subjects:
+  - artificial-intelligence
+locales:
+  - en-us
+summary: |-
+  This learning path guides you through creating AI-powered computer vision solutions using Microsoft Azure AI services. It covers how to process and analyze images and videos, extract information, and build intelligent applications with Azure Cognitive Services. You will learn to implement computer vision capabilities such as image classification, object detection, and optical character recognition (OCR) using Microsoft Azure pre-built models and custom vision services. The path includes hands-on interactive exercises and real-world practical examples to help you develop and deploy computer vision solutions effectively.
+tasks:
+  - Test task -1
+  - Test task -2
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL3004-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
