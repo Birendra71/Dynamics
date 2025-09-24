@@ -1,3 +1,4 @@
+### YamlMime: AppliedSkills
 hidden: true
 labProfileId: 'LABID12345'
 title: 'configure-security-information'
@@ -18,7 +19,13 @@ summary: |-
   This Microsoft Learning Path introduces learners to Power Automate with a focus on building scalable, inclusive workflows. While the modules are rich in technical depth, several terms identified as non-inclusive or outdated were detected that may hinder accessibility or professionalism. Phrases like “team,” “resources,” and “blocklist” replace outdated or biased language, while others such as “secondary process,” “simplified,” and “meticulous about logs” address terminology considered offensive or insensitive by modern content standards. Using these inclusive alternatives not only improves clarity but also aligns with Microsoft's commitment to respectful and user-friendly learning environments.
   </p>
 tasks:
-  - Test tasks.. 
+  - The input JSON body for the work item children node is empty ([]), so none of the specified fields are present.
+
+    Therefore, the output JSON will be empty as well:
+
+    ```json
+    {}
+    ```
 resources:
   - title: Study guide for Applied Skills
     description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
