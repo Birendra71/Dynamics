@@ -1,6 +1,10 @@
 ### YamlMime: AppliedSkills
 hidden: true
 labProfileId: 'LABID12345'
+metadata:
+  title: ''
+  description: ''
+  adobe-target: false
 title: 'configure-security-information'
 uid: ''
 levels:
@@ -12,7 +16,6 @@ products:
 subjects:
   - custom-app-development
 locales:
-  - de-de
   - en-us
 summary: |-
   <p style="font-family:Arial, sans-serif;font-size:1em;line-height:1.5;">
@@ -27,6 +30,8 @@ tasks:
     ```json
     {}
     ```
+studyGuide:
+  - uid: ''
 resources:
   - title: Study guide for Applied Skills
     description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
@@ -40,7 +45,3 @@ resources:
   - title: Support for Credentials
     description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
     href: https://learn.microsoft.com/credentials/support/help
-previewDate: '2025-10-15T18:30:00Z'
-pageURL: 'https://testing/test-page-url'
-previewURL: ''
-learningPathUID: LPUID12345
