@@ -1,29 +1,24 @@
 ### YamlMime: AppliedSkills
 hidden: false
-labProfileId: '189722'
+labProfileId: '999999'
 metadata:
   title: 'Build an Azure AI Vision solution'
-  description: 'Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills'
+  description: 'testing.......123'
   adobe-target: false
 title: 'Build an Azure AI Vision solution'
 uid: build-an-azure-ai-vision-solution
 levels:
   - intermediate
 roles:
-  - ai-engineer
-  - developer
+  - ai-engineer, developer
 products:
-  - ai-services
-  - azure-computer-vision
-  - azure-face
-  - azure-video-indexer
-  - azure-ai-foundry
+  - ai-builder
 subjects:
   - artificial-intelligence
 locales:
-  - de-de
+  - en-us
 summary: |-
-  This learning path guides you through creating customized computer vision applications and services using Azure AI. It covers the fundamentals of computer vision, including how to perform tasks such as object detection, classification, and video analysis, and how to build intelligent applications that can interpret, identify, and process visual data. The path includes modules on using Azure Cognitive Services, custom vision models, and integrating computer vision capabilities into your applications. It is designed for developers, data scientists, technology professionals, and related roles interested in leveraging Azure AI for computer vision tasks.
+  This learning path guides you through creating customized AI-powered computer vision applications and services using Microsoft Azure AI. It covers the fundamentals of computer vision, including how to perform tasks such as object detection, classification, and video analysis, and how to build intelligent applications that can interpret, identify, and process visual data. The path includes modules on using Azure Cognitive Services, custom vision models, and integrating computer vision capabilities into your applications. It is designed for developers, data scientists, technology professionals, and other related roles interested in leveraging Microsoft Azure AI for computer vision tasks.
 tasks:
   - testing......
 studyGuide:
