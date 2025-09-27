@@ -21,7 +21,7 @@ products:
 subjects:
   - artificial-intelligence
 locales:
-  - Britain
+  - en-us
 summary: |-
   Learn how to implement GitHub Actions and configure Azure Load Testing to automate testing app deployments. GitHub Actions is a powerful CI/CD platform that allows developers to automate their software development workflows. Learn how GitHub Actions are implemented, how workflow files are structured, and how to control workflow execution. Learners in the United Kingdom will have access to the Microsoft Learn credentials site.
 tasks:
