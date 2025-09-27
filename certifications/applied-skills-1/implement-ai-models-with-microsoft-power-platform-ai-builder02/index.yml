@@ -1,0 +1,33 @@
+### YamlMime: AppliedSkills
+hidden: True
+labProfileId: '14587'
+metadata:
+  title: 'Microsoft Applied Skills: Implement AI models with Microsoft Power Platform AI Builder02'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+title: 'Microsoft Applied Skills: Implement AI models with Microsoft Power Platform AI Builder02'
+uid: applied-skill.Implement AI models with Microsoft Power Platform AI Builder
+levels:
+ - Intermediate
+roles:
+ - administrator
+products:
+ - ai-vision
+subjects:
+ - application-management
+locales:
+ - en
+summary: | -
+  To earn this Microsoft Applied Skills credential, learners demonstrate the ability to build intelligent apps with AI Builder, a feature within Microsoft Power Platform.
+
+Candidates for this credential should be familiar with the Microsoft Power Platform Environment Maker role, Power Automate, Power Platform canvas apps, Power Automate cloud flows and Dataverse. They should also have experience with AI Builder.
+tasks:
+ - Implement document processing by using AI Builder
+Implement text analysis by using AI Builder
+Implement forecasts and predictions by using AI Builder
+Integrate AI Builder capabilities into an app
+studyGuide:
+ - uid: az-70t00
+resources:
+- title: Study guide for Applied Skills
+  description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+  href: https://applied-skills-study-guide

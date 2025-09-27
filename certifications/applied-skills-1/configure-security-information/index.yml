@@ -1,0 +1,47 @@
+### YamlMime: AppliedSkills
+hidden: true
+labProfileId: 'lab1234'
+metadata:
+  title: ''
+  description: ''
+  adobe-target: false
+title: 'configure-security-information'
+uid: ''
+levels:
+  - expert
+roles:
+  - administrator
+products:
+  - ai-builder
+subjects:
+  - custom-app-development
+locales:
+  - fr-fr
+summary: |-
+  <p style="font-family:Arial, sans-serif;font-size:1em;line-height:1.5;">
+  <strong>Final Publish-Ready Overview Version</strong><br>
+  This Microsoft Learning Path introduces learners to Power Automate with a focus on building scalable, inclusive workflows. While the modules are rich in technical depth, several terms identified as non-inclusive or outdated were detected that may hinder accessibility or professionalism. Phrases like “team,” “resources,” and “blocklist” replace outdated or biased language, while others such as “secondary process,” “simplified,” and “meticulous about logs” address terminology considered offensive or insensitive by modern content standards. Using these inclusive alternatives not only improves clarity but also aligns with Microsoft's commitment to respectful and user-friendly learning environments.
+  </p>
+tasks:
+  - The input JSON body for the work item children node is empty ([]), so none of the specified fields are present.
+
+    Therefore, the output JSON will be empty as well:
+
+    ```json
+    {}
+    ```
+studyGuide:
+  - uid: ''
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/ABCD1234-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help

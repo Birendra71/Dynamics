@@ -1,0 +1,26 @@
+### YamlMime: AppliedSkills
+hidden: False
+labProfileId: '1234'
+metadata:
+  title: 'administer-active-directory'
+title: 'administer-active-directory'
+uid: applied-skill.administer-active-directory
+levels:
+ - Beginner
+roles:
+ - administrator
+products:
+ - active-directory
+locales:
+ - de
+summary: | -
+  summary
+tasks:
+ - Active Directory
+Automation
+studyGuide:
+ - uid: aka.ms/studyguide
+resources:
+- title: Resource
+  description: Description
+  href: https://www.resource.com
