@@ -1,0 +1,40 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '189722'
+metadata:
+  title: 'Automate Azure '
+  description: 'Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills'
+  adobe-target: false
+title: 'Automate Azure '
+uid: applied-skill.automate-azure-load-testing-by-using-github-actions
+levels:
+  - intermediate
+roles:
+  - developer
+products:
+  - github
+  - azure-load-testing
+subjects:
+  - automation
+locales:
+  - en-us
+summary: |-
+  Learn how to implement GitHub Actions and configure Azure Load Testing to automate testing of application deployments. GitHub Actions is a powerful CI/CD platform that enables developers to automate their software development workflows. Explore how to create workflows, structure workflow files, and effectively manage workflow execution, including monitoring and troubleshooting. Learners in the United Kingdom can access the Microsoft Learn credentials site; currently, the site is available only in French. For more information, see the related training: [Configure SIEM security operations using Microsoft Sentinel (SC-5001) - Microsoft Learn Training](https://learn.microsoft.com/en-us/training/paths/configure-security-information-event-management-operations-using-microsoft-sentinel/).
+tasks:
+  - Prepare the GitHub and Azure environments
+  - Configure GitHub Actions to deploy an app to Azure App Service
+studyGuide:
+  - uid: learn.wwl.automate-azure-load-testing-github
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/apl-2006-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
