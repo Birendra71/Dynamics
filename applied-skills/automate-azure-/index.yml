@@ -23,7 +23,7 @@ subjects:
 locales:
   - en-us
 summary: |-
-  This learning path guides you through creating AI-enhanced computer vision solutions using Microsoft Azure AI services. It covers how to analyze visual content such as images and videos, extract information, and build intelligent applications with Azure Cognitive Services. You will learn to implement computer vision capabilities such as image classification, object detection, and optical character recognition (OCR), which extracts text from images, using Microsoft Azure pre-built models and Custom Vision service. The path includes hands-on interactive exercises and real-world practical examples to help you develop and deploy computer vision solutions effectively.
+  <div>Test overview content.&nbsp;<a href="https://learn.microsoft.com/en-us/training/paths/configure-security-information-event-management-operations-using-microsoft-sentinel/">https://learn.microsoft.com/en-us/training/paths/configure-security-information-event-management-operations-using-microsoft-sentinel/</a> </div>
 tasks:
   - testing-123
   - Testing-456
