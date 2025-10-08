@@ -1,34 +1,38 @@
 ### YamlMime: AppliedSkills
 hidden: false
-labProfileId: '189722'
+labProfileId: 'test lab profile id'
 metadata:
-  title: 'Automate Azure '
+  title: 'automate-azure-'
   description: 'Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills'
   adobe-target: false
-title: 'Automate Azure '
-uid: applied-skill.automate-azure-load-testing-by-using-github-actions
+title: 'automate-azure-'
+uid: applied-skill.apl-3004---creation-of-lab-and-provide-the-lab-profile-id
 levels:
   - intermediate
 roles:
+  - ai-engineer
   - developer
 products:
-  - github
-  - azure-load-testing
+  - ai-services
+  - azure-computer-vision
+  - azure-face
+  - azure-video-indexer
+  - azure-ai-foundry
 subjects:
-  - automation
+  - artificial-intelligence
 locales:
   - en-us
 summary: |-
-  Learn how to implement GitHub Actions and configure Azure Load Testing to automate testing of application deployments. GitHub Actions is a powerful CI/CD platform that enables developers to automate their software development workflows. Explore how to create workflows, structure workflow files, and effectively manage workflow execution, including monitoring and troubleshooting. Learners in the United Kingdom can access the Microsoft Learn credentials site; currently, the site is available only in French. For more information, see the related training: [Configure SIEM security operations using Microsoft Sentinel (SC-5001) - Microsoft Learn Training](https://learn.microsoft.com/en-us/training/paths/configure-security-information-event-management-operations-using-microsoft-sentinel/).
+  This learning path guides you through creating AI-enhanced computer vision solutions using Microsoft Azure AI services. It covers how to analyze visual content such as images and videos, extract information, and build intelligent applications with Azure Cognitive Services. You will learn to implement computer vision capabilities such as image classification, object detection, and optical character recognition (OCR), which extracts text from images, using Microsoft Azure pre-built models and Custom Vision service. The path includes hands-on interactive exercises and real-world practical examples to help you develop and deploy computer vision solutions effectively.
 tasks:
-  - Prepare the GitHub and Azure environments
-  - Configure GitHub Actions to deploy an app to Azure App Service
+  - testing-123
+  - Testing-456
 studyGuide:
-  - uid: learn.wwl.automate-azure-load-testing-github
+  - uid: learn.wwl.create-computer-vision-solutions-azure-ai
 resources:
   - title: Study guide for Applied Skills
     description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
-    href: https://aka.ms/apl-2006-StudyGuide
+    href: https://aka.ms/apl-3004-StudyGuide
   - title: Applied Skills poster
     description: Explore all credentials in a concise guide.
     href: https://aka.ms/AppliedSkillsPoster
