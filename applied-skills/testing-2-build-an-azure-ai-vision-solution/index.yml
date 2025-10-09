@@ -1,0 +1,46 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '9273'
+metadata:
+  title: 'Testing 2-Build an Azure AI Vision solution'
+  description: 'alidate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills'
+  adobe-target: false
+title: 'Testing 2-Build an Azure AI Vision solution'
+uid: applied-skill.testing-2-build-an-azure-ai-vision-solution
+levels:
+  - intermediate
+roles:
+  - ai-engineer
+  - developer
+products:
+  - ai-services
+  - azure-computer-vision
+  - azure-face
+  - azure-video-indexer
+  - azure-ai-foundry
+subjects:
+  - artificial-intelligence
+locales:
+  - en-us
+summary: |-
+  <p>
+  This learning path guides you through creating AI-enabled computer vision solutions using Azure AI. It covers how to process and analyze images and videos, extract information, and develop intelligent applications with Azure Cognitive Services. You will learn to implement computer vision capabilities such as image classification, object detection, and optical character recognition (OCR), a technology that converts images of text into machine-readable text, using Azure's pre-built models and custom vision services. The path includes hands-on interactive exercises and real-world practical examples to help you develop and deploy computer vision solutions effectively.
+  </p>
+tasks:
+  - task1
+  - task2
+studyGuide:
+  - uid: learn.wwl.create-computer-vision-solutions-azure-ai
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/apl-2031-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
