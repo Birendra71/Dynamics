@@ -1,0 +1,44 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '990257'
+metadata:
+  title: 'Azure Applied Copilot AI for Automation'
+  description: 'Azure Applied Copilot AI for Automation page description'
+  adobe-target: false
+title: 'Azure Applied Copilot AI for Automation'
+uid: applied-skill.azure-applied-copilot-ai-for-automation
+levels:
+  - intermediate
+roles:
+  - developer
+products:
+  - azure-database-postgresql
+  - ai-services
+subjects:
+  - artificial-intelligence
+  - databases
+locales:
+  - en-us
+summary: |-
+  This learning path guides you through building Artificial Intelligence (AI) applications using Azure Database for PostgreSQL (an advanced open-source relational database). It covers how to create and manage PostgreSQL databases on Azure, integrate AI capabilities, and develop intelligent applications using Azure services. The path includes modules on setting up the environment, working with data, and implementing AI models to enhance application functionality.
+tasks:
+  - Configure an Azure PostgreSQL environment
+  - Generate document embeddings
+  - Implement semantic search
+  - Apply Retrieval Augmented Generation (RAG)
+  - Transform and analyze natural language
+studyGuide:
+  - uid: learn.wwl.build-ai-apps-azure-database-postgresql
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/apl-5010-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
