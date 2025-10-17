@@ -1,0 +1,40 @@
+### YamlMime: AppliedSkills
+hidden: true
+labProfileId: 'ai-services'
+metadata:
+  title: 'apl123 - testing   in  progress   '
+  description: "page desc"
+  adobe-target: false
+title: 'apl123 - testing   in  progress   '
+uid: applied-skill.apl123-testing-in-progress
+levels:
+  - expert
+roles:
+  - administrator
+products:
+  - ai-services
+subjects:
+  - custom-app-development
+locales:
+  - de-de
+  - en-us
+summary: |-
+  test overview content https://learn.microsoft.com/en-us/connectors/webcontentsv2/#authorize-the-connector-to-act-on-behalf-of-a-signed-in-user 
+tasks:
+  - task1, task 2 , task 3 
+studyGuide:
+  - uid: learn.wwl.apl123-testing-in-progress
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/Apl2025-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
