@@ -1,0 +1,39 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '189722'
+metadata:
+  title: 'new page for creation'
+  description: "new page for creation"
+  adobe-target: false
+title: 'new page for creation'
+uid: applied-skill.new-page-for-creation
+levels:
+  - intermediate
+roles:
+  - developer
+products:
+  - github
+  - azure-load-testing
+subjects:
+  - automation
+locales:
+  - en-us
+summary: |-
+  <p>This learning path provides guidance on automating Azure Load Testing using GitHub. It explains how to create and run load tests in Azure, integrate load testing with GitHub workflows, and analyze test results to improve application performance. This learning path includes modules that cover setting up Azure Load Testing resources, configuring tests, and automating test execution through continuous integration and delivery pipelines. It is designed to help all professionals, including developers and DevOps practitioners, ensure their applications can handle expected traffic by leveraging Azure Load Testing and GitHub automation. </p>
+tasks:
+  - rasdsfs 
+studyGuide:
+  - uid: learn.wwl.automate-azure-load-testing-github
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL2006-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
