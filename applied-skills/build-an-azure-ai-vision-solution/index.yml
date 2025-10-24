@@ -1,9 +1,9 @@
 ### YamlMime: AppliedSkills
 hidden: false
-labProfileId: '189722'
+labProfileId: '998542'
 metadata:
   title: 'Build an Azure AI Vision solution'
-  description: 'Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills"
   adobe-target: false
 title: 'Build an Azure AI Vision solution'
 uid: applied-skill.build-an-azure-ai-vision-solution
@@ -23,18 +23,16 @@ subjects:
 locales:
   - en-us
 summary: |-
-  <p>
-  This learning path guides you through creating artificial intelligence (AI) enhanced computer vision solutions using Azure AI services. It covers how to analyze visual content such as images and videos, extract meaningful information, and build intelligent applications with Azure Cognitive Services. You will learn to implement computer vision capabilities such as image classification, object detection, and optical character recognition (OCR), which extracts text from images and scanned documents, using Azure pre-built models and the Custom Vision service. The path includes interactive exercises and practical examples to help you develop and deploy computer vision solutions effectively.
-  </p>
+  This learning path guides you in creating computer vision solutions enhanced by artificial intelligence (AI) using Azure AI services. It covers how to analyze visual content such as images and videos, derive actionable insights, and build intelligent applications with Azure Cognitive Services. You will learn to implement computer vision capabilities such as image classification, object detection, and optical character recognition (OCR), which extracts text from images and scanned documents, using Azure pre-built models and the Custom Vision service. The path includes hands-on interactive exercises and real-world practical examples to help you develop and deploy computer vision solutions effectively.
 tasks:
   - testing-123
   - Testing-456
 studyGuide:
-  - uid: learn.wwl.create-computer-vision-solutions-azure-ai
+  - uid: learn.wwl.build-ai-powered-solutions-by-using-microsoft-azure-database-for-postgresql
 resources:
   - title: Study guide for Applied Skills
     description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
-    href: https://aka.ms/apl-3004-StudyGuide
+    href: https://aka.ms/apl3004-StudyGuide
   - title: Applied Skills poster
     description: Explore all credentials in a concise guide.
     href: https://aka.ms/AppliedSkillsPoster
