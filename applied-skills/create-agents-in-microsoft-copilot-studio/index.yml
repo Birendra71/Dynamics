@@ -1,0 +1,43 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '254786'
+metadata:
+  title: 'Create agents in Microsoft Copilot Studio'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: false
+title: 'Create agents in Microsoft Copilot Studio'
+uid: applied-skill.create-agents-in-microsoft-copilot-studio
+levels:
+  - intermediate
+roles:
+  - security-operations-analyst
+products:
+  - microsoft-defender
+  - defender-endpoint
+  - defender-xdr
+subjects:
+  - threat-protection
+locales:
+  - en-us
+summary: |-
+  <p>This learning path, "Defend against cyber threats using Microsoft Defender," is designed to help learners understand how to use Microsoft Defender to protect organizations from cyber threats. It covers skills such as threat protection, threat detection, and response using Microsoft Defender Tools. The learning path includes modules on Microsoft Defender for Endpoint, Microsoft Defender for Office 365, Microsoft Defender for Identity, and Microsoft Defender for Cloud Apps. Learners will learn how to configure and manage these tools to secure endpoints, identities, email, and cloud applications effectively. The path is intended for security operations specialists and professionals responsible for threat protection and response. </p>
+tasks:
+  - Experience using the Microsoft Defender portal
+  - Basic understanding of Microsoft Defender for Endpoint
+  - Basic understanding of Microsoft Sentinel
+  - Experience using Kusto Query Language (KQL) in Microsoft Sentinel
+studyGuide:
+  - uid: learn.wwl.defend-against-cyberthreats-defender
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL5010-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
