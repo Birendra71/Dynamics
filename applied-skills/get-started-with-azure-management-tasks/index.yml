@@ -1,0 +1,46 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '6874512'
+metadata:
+  title: 'Get started with Azure management tasks'
+  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
+  adobe-target: false
+title: 'Get started with Azure management tasks'
+uid: applied-skill.get-started-with-azure-management-tasks
+levels:
+  - beginner
+roles:
+  - business-user
+products:
+  - azure
+subjects:
+  - architecture
+  - cloud-computing
+  - infrastructure
+  - networking
+  - resource-management
+  - virtual-machine
+locales:
+  - en-us
+summary: |-
+  This learning path provides an introduction to Microsoft Azure management tasks. It covers the basics of managing Azure resources, including how to use the Azure portal, Azure PowerShell, and Azure CLI. The path guides learners through creating and managing resource groups, deploying and managing virtual machines, and configuring Azure storage. It is designed to help learners understand core Azure management concepts and perform essential administrative tasks in the Azure environment.
+tasks:
+  - Experience using the Microsoft Defender portal
+  - Basic understanding of Microsoft Defender for Endpoint
+  - Basic understanding of Microsoft Sentinel
+  - Experience using Kusto Query Language (KQL) in Microsoft Sentinel
+studyGuide:
+  - uid: learn.wwl.introduction-microsoft-azure-management-tasks
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL5010-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
