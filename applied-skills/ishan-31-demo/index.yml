@@ -1,0 +1,44 @@
+### YamlMime: AppliedSkills
+hidden: false
+labProfileId: '8726'
+metadata:
+  title: 'Microsoft Applied Skills: Ishan-31-Demo'
+  description: "test description"
+  adobe-target: false
+title: 'Microsoft Applied Skills: Ishan-31-Demo'
+uid: applied-skill.ishan-31-demo
+levels:
+  - intermediate
+roles:
+  - ai-engineer
+  - developer
+products:
+  - ai-services
+  - azure-computer-vision
+  - azure-face
+  - azure-video-indexer
+  - azure-ai-foundry
+subjects:
+  - artificial-intelligence
+locales:
+  - en-us
+summary: |-
+  This learning path guides you through creating AI-powered computer vision solutions using Azure AI. It covers how to process and analyze images and videos, extract information, and develop AI-powered applications with Azure Cognitive Services. You will learn to implement computer vision capabilities such as image classification, object detection, and optical character recognition (OCR) using Azure tools and services. The path includes interactive exercises and real-world examples to help you develop and deploy AI-powered computer vision solutions.
+tasks:
+  - tasks as one task
+  - two task
+studyGuide:
+  - uid: learn.wwl.create-computer-vision-solutions-azure-ai
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APL310-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
