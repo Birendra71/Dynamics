@@ -1,0 +1,45 @@
+### YamlMime: AppliedSkills
+hidden: true
+labProfileId: 'lab'
+metadata:
+  title: 'Microsoft Applied Skills: applied skills page31st oct'
+  description: "testing create page flow"
+  adobe-target: false
+title: 'Microsoft Applied Skills: applied skills page31st oct'
+uid: applied-skill.applied-skills-page31st-oct
+levels:
+  - intermediate
+roles:
+  - security-operations-analyst
+products:
+  - azure
+  - microsoft-sentinel
+  - azure-log-analytics
+  - azure-logic-apps
+subjects:
+  - threat-protection
+locales:
+  - en-us
+summary: |-
+  This learning path guides you through configuring security information and event management (SIEM) operations using Microsoft Sentinel. It covers how to collect data at cloud scale across all users, devices, applications, and infrastructure, both on-premises and in multiple clouds. 
+
+  You will learn to investigate threats with artificial intelligence and respond to incidents rapidly with built-in orchestration and automation of common tasks. The path includes modules on connecting data sources, creating analytics rules, investigating alerts, and automating responses to improve security operations. https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/
+tasks:
+  - task a 
+  - task b 
+  - task c 
+studyGuide:
+  - uid: learn.wwl.configure-siem-security-operations-using-microsoft-sentinel
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/TESTID-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
