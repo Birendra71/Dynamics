@@ -1,14 +1,14 @@
 ### YamlMime: AppliedSkills
 hidden: false
-labProfileId: '963258'
+labProfileId: '123456'
 metadata:
-  title: 'Automate Azure Load Testing by using GitHub Actions'
-  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills"
+  title: 'Microsoft Applied Skills: Automate Azure Load Testing by using GitHub Actions'
+  description: "a better improved version of the skills"
   adobe-target: false
-title: 'Automate Azure Load Testing by using GitHub Actions'
-uid: applied-skill.apl-2006---creation-of-lab-and-provide-the-lab-profile-id
+title: 'Microsoft Applied Skills: Automate Azure Load Testing by using GitHub Actions'
+uid: applied-skill.automate-azure-load-testing-by-using-github-actions
 levels:
-  - intermediate
+  - beginner
 roles:
   - developer
 products:
@@ -19,7 +19,7 @@ subjects:
 locales:
   - en-us
 summary: |-
-  Learn how to implement GitHub Actions and configure Azure Load Testing to automate testing app deployments. GitHub Actions is a powerful CI/CD platform that allows developers to automate their software development workflows. Learn how GitHub Actions are implemented, how workflow files are structured, and how to control workflow execution. Learners from the United Kingdom will have access to the Microsoft Learn credentials site (French version).
+  Learn how to implement GitHub Actions and configure Azure Load Testing to automate testing app deployments. GitHub Actions is a powerful CI/CD platform that allows developers to automate their software development workflows. Learn how GitHub Actions are implemented, how workflow files are structured, and how to control workflow execution. Learners from the United Kingdom will have access to the Microsoft Learn credentials site (French version). 
 tasks:
   - Prepare the GitHub and Azure environments
   - Configure GitHub Actions to deploy an app to Azure App Service
