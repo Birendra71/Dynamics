@@ -1,0 +1,44 @@
+### YamlMime: AppliedSkills
+hidden: true
+labProfileId: 'lab id 3nov'
+metadata:
+  title: 'Microsoft Applied Skills: page title 3nov'
+  description: "testing flow"
+  adobe-target: false
+title: 'Microsoft Applied Skills: page title 3nov'
+uid: applied-skill.page-title-3nov
+levels:
+  - beginner
+roles:
+  - administrator
+  - developer
+  - devops-engineer
+  - solution-architect
+products:
+  - azure
+subjects:
+  - cloud-computing
+  - compliance
+locales:
+  - en-us
+summary: |-
+  This learning path provides an overview of Azure management and governance. It covers key concepts and tools to help manage and govern Azure resources effectively. The path includes modules on Azure subscriptions, resource groups, role-based access control (RBAC), policies, and cost management. It is designed to help learners understand how to organize and secure Azure environments, implement governance strategies, and optimize resource usage. The content is suitable for individuals looking to build foundational knowledge in managing and governing Azure cloud services.
+tasks:
+  - task 1
+  - task 2
+  - task 3
+studyGuide:
+  - uid: learn.wwl.describe-azure-management-governance
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/TESTID-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
