@@ -1,14 +1,14 @@
 ### YamlMime: AppliedSkills
 hidden: false
-labProfileId: '172536'
+labProfileId: '999'
 metadata:
-  title: 'Microsoft Applied Skills: Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL'
+  title: 'Microsoft Applied Skills: build-ai-powered-solutions-by-using-microsoft-azure-database-for-postgresql'
   description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
   adobe-target: false
-title: 'Microsoft Applied Skills: Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL'
+title: 'Microsoft Applied Skills: build-ai-powered-solutions-by-using-microsoft-azure-database-for-postgresql'
 uid: applied-skill.build-ai-powered-solutions-by-using-microsoft-azure-database-for-postgresql
 levels:
-  - intermediate
+  - beginner
 roles:
   - developer
 products:
@@ -18,15 +18,15 @@ subjects:
   - artificial-intelligence
   - databases
 locales:
-  - Britain
+  - en-us
 summary: |-
-  Learn how to implement GitHub Actions and configure Azure Load Testing to automate testing app deployments. GitHub Actions is a powerful CI/CD platform that allows developers to automate their software development workflows. Learn how GitHub Actions are implemented, how workflow files are structured, and how to control workflow execution. Learners from the United Kingdom will have access to the https://learns.microsoft.com/fr-fr/credentials site.
+  Learn how to implement GitHub Actions and configure Azure Load Testing to automate testing app deployments.
+  GitHub Actions is a powerful CI/CD platform that allows developers to automate their software development workflows.
+  Learn how GitHub Actions are implemented, how workflow files are structured, and how to control workflow execution.
+  Learners from the United Kingdom will have access to the https://learn.microsoft.com/fr-fr/credentials site.
 tasks:
-  - Configure an Azure PostgreSQL environment
-  - Generate document embeddings
   - Implement semantic search
   - Apply Retrieval Augmented Generation (RAG)
-  - Transform and analyze natural language
 studyGuide:
   - uid: learn.wwl.build-ai-apps-azure-database-postgresql
 resources:
