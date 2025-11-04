@@ -2,10 +2,10 @@
 hidden: false
 labProfileId: '189722'
 metadata:
-  title: 'new page for creation'
+  title: 'Microsoft Applied Skills: new page for creation'
   description: "new page for creation"
   adobe-target: false
-title: 'new page for creation'
+title: 'Microsoft Applied Skills: new page for creation'
 uid: applied-skill.new-page-for-creation
 levels:
   - intermediate
@@ -19,9 +19,9 @@ subjects:
 locales:
   - en-us
 summary: |-
-  <p>This learning path provides guidance on automating Azure Load Testing using GitHub. It explains how to create and run load tests in Azure, integrate load testing with GitHub workflows, and analyze test results to improve application performance. This learning path includes modules that cover setting up Azure Load Testing resources, configuring tests, and automating test execution through continuous integration and delivery pipelines. It is designed to help all professionals, including developers and DevOps practitioners, ensure their applications can handle expected traffic by leveraging Azure Load Testing and GitHub automation. </p>
+  This learning path provides guidance on automating Azure Load Testing using GitHub. It explains how to create and run load tests in Azure, integrate load testing with GitHub workflows, and analyze test results to improve application performance. This learning path includes modules that cover setting up Azure Load Testing resources, configuring tests, and automating test execution through continuous integration and delivery pipelines. It is designed to help all professionals, including developers and DevOps practitioners, ensure their applications can handle expected traffic by leveraging Azure Load Testing and GitHub automation. 
 tasks:
-  - rasdsfs 
+  - rasdsfs
 studyGuide:
   - uid: learn.wwl.automate-azure-load-testing-github
 resources:
