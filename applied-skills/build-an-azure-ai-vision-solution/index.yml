@@ -1,34 +1,32 @@
 ### YamlMime: AppliedSkills
 hidden: false
-labProfileId: '998542'
+labProfileId: 'labID'
 metadata:
-  title: 'Build an Azure AI Vision solution'
+  title: 'Microsoft Applied Skills: Build an Azure AI Vision solution'
   description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills"
   adobe-target: false
-title: 'Build an Azure AI Vision solution'
+title: 'Microsoft Applied Skills: Build an Azure AI Vision solution'
 uid: applied-skill.build-an-azure-ai-vision-solution
 levels:
   - intermediate
 roles:
-  - ai-engineer
-  - developer
+  - security-operations-analyst
 products:
-  - ai-services
-  - azure-computer-vision
-  - azure-face
-  - azure-video-indexer
-  - azure-ai-foundry
+  - azure
+  - microsoft-sentinel
+  - azure-log-analytics
+  - azure-logic-apps
 subjects:
-  - artificial-intelligence
+  - threat-protection
 locales:
   - en-us
 summary: |-
-  This learning path guides you in creating computer vision solutions enhanced by artificial intelligence (AI) using Azure AI services. It covers how to analyze visual content such as images and videos, derive actionable insights, and build intelligent applications with Azure Cognitive Services. You will learn to implement computer vision capabilities such as image classification, object detection, and optical character recognition (OCR), which extracts text from images and scanned documents, using Azure pre-built models and the Custom Vision service. The path includes hands-on interactive exercises and real-world practical examples to help you develop and deploy computer vision solutions effectively.
+  This learning path guides you through configuring security information and event management (SIEM) operations using Microsoft Sentinel. It covers how to collect data at cloud scale across all users, devices, applications, and infrastructure, both on-premises and in multiple clouds. You will learn to investigate threats with artificial intelligence and respond to incidents rapidly with built-in orchestration and automation of common tasks. The path includes modules on connecting data sources, creating analytics rules, managing incidents, and automating responses to enhance security operations.
 tasks:
   - testing-123
   - Testing-456
 studyGuide:
-  - uid: learn.wwl.build-ai-powered-solutions-by-using-microsoft-azure-database-for-postgresql
+  - uid: learn.wwl.configure-siem-security-operations-using-microsoft-sentinel
 resources:
   - title: Study guide for Applied Skills
     description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
