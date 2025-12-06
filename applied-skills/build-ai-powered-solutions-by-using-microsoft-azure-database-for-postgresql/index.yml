@@ -1,6 +1,6 @@
 ### YamlMime: AppliedSkills
 hidden: false
-labProfileId: '172536'
+labProfileId: '919191'
 metadata:
   title: 'Microsoft Applied Skills: Build AI-powered solutions by using Microsoft Azure Database for PostgreSQL'
   description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills."
@@ -20,7 +20,7 @@ subjects:
 locales:
   - en-us
 summary: |-
-  This learning path guides you through building AI applications using Azure Database for PostgreSQL. It covers how to create and manage PostgreSQL databases on Azure, integrate AI capabilities, and develop intelligent applications using Azure services. The path includes modules on setting up the environment, working with data, and implementing AI models to enhance application functionality.
+  This learning path guides you through building AI applications using Azure Database for PostgreSQL. It covers how to create and manage PostgreSQL databases on Azure, integrate AI capabilities, and develop intelligent applications using Azure services. The path includes modules on setting up the environment, working with data, and implementing AI models to enhance application functionality. 
 tasks:
   - Configure an Azure PostgreSQL environment
   - Generate document embeddings
