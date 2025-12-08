@@ -3,7 +3,7 @@ hidden: false
 labProfileId: 'labID'
 metadata:
   title: 'Microsoft Applied Skills: Build an Azure AI Vision solution'
-  description: "Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills"
+  description: "testing publsihing process confirmation mail notification"
   adobe-target: false
 title: 'Microsoft Applied Skills: Build an Azure AI Vision solution'
 uid: applied-skill.build-an-azure-ai-vision-solution
@@ -21,7 +21,7 @@ subjects:
 locales:
   - en-us
 summary: |-
-  This learning path guides you through configuring security information and event management (SIEM) operations using Microsoft Sentinel. It covers how to collect data at cloud scale across all users, devices, applications, and infrastructure, both on-premises and in multiple clouds. You will learn to investigate threats with artificial intelligence and respond to incidents rapidly with built-in orchestration and automation of common tasks. The path includes modules on connecting data sources, creating analytics rules, managing incidents, and automating responses to enhance security operations.
+  This learning path guides you through configuring security information and event management (SIEM) operations using Microsoft Sentinel. It covers how to collect data at cloud scale across all users, devices, applications, and infrastructure, both on-premises and in multiple clouds. You will learn to investigate threats with artificial intelligence and respond to incidents rapidly with built-in orchestration and automation of common tasks. The path includes modules on connecting data sources, creating analytics rules, managing incidents, and automating responses to enhance security operations. 
 tasks:
   - testing-123
   - Testing-456
