@@ -1,40 +1,42 @@
 ### YamlMime: AppliedSkills
-hidden: true
-labProfileId: 'ai-services'
+hidden: false
+labProfileId: 'labID'
 metadata:
-  title: 'apl123 - testing   in  progress   '
-  description: "page desc"
+  title: 'Microsoft Applied Skills: apl123-testing-in-progress'
+  description: "9 testing publsihing process for github subfolder link"
   adobe-target: false
-title: 'apl123 - testing   in  progress   '
+title: 'Microsoft Applied Skills: apl123-testing-in-progress'
 uid: applied-skill.apl123-testing-in-progress
 levels:
-  - expert
+  - intermediate
 roles:
-  - administrator
+  - security-operations-analyst
 products:
-  - ai-services
+  - azure
+  - microsoft-sentinel
+  - azure-log-analytics
+  - azure-logic-apps
 subjects:
-  - custom-app-development
+  - threat-protection
 locales:
-  - de-de
   - en-us
 summary: |-
-  test overview content https://learn.microsoft.com/en-us/connectors/webcontentsv2/#authorize-the-connector-to-act-on-behalf-of-a-signed-in-user 
+  This learning path guides you through configuring security information and event management (SIEM) operations using Microsoft Sentinel. It covers how to collect data at cloud scale across all users, devices, applications, and infrastructure, both on-premises and in multiple clouds. You will learn to investigate threats with artificial intelligence and respond to incidents rapidly with built-in orchestration and automation of common tasks. The path includes modules on connecting data sources, creating analytics rules, managing incidents, and automating responses to enhance security operations. 
 tasks:
-  - task1, task 2 , task 3 
+  - testing-123
+  - Testing-456
 studyGuide:
-  - uid: learn.wwl.apl123-testing-in-progress
+  - uid: learn.wwl.configure-siem-security-operations-using-microsoft-sentinel
 resources:
   - title: Study guide for Applied Skills
     description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
-    href: https://aka.ms/Apl2025-StudyGuide
+    href: https://aka.ms/apl3004-StudyGuide
   - title: Applied Skills poster
     description: Explore all credentials in a concise guide.
     href: https://aka.ms/AppliedSkillsPoster
   - title: Choose your Microsoft Credential
     description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
     href: https://aka.ms/ChooseYourMicrosoftCredential
-
   - title: Support for Credentials
     description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
     href: https://learn.microsoft.com/credentials/support/help
