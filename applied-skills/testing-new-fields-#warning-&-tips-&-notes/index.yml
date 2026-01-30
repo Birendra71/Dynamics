@@ -1,0 +1,52 @@
+### YamlMime: AppliedSkills
+hidden: true
+labProfileId: 'Lab12decID'
+metadata:
+  title: 'Microsoft Applied Skills: testing new fields-#warning & tips & notes'
+  description: "test study guide file attachment upload to git"
+  ms.author: "Praneet"
+  adobe-target: false
+title: 'Microsoft Applied Skills: testing new fields-#warning & tips & notes'
+uid: applied-skill.testing-new-fields-#warning-&-tips-&-notes
+levels:
+  - beginner
+roles:
+  - administrator
+  - developer
+  - devops-engineer
+  - solution-architect
+products:
+  - azure
+subjects:
+  - cloud-computing
+  - compliance
+locales:
+  - en-us
+> [!WARNING]
+> This credential will retire on January 30, 2026. You will no longer be able to earn this credential after this date.
+summary: |-
+  This learning path provides an overview of Azure management and governance. It covers key concepts and tools to help manage and govern Azure resources effectively. The path includes modules on Azure subscriptions, management groups, role-based access control (RBAC), Azure Policy, and Azure Blueprints. This path helps learners organize resources, control access, enforce compliance, and automate governance within Azure environments.
+> [!NOTE]
+> 
+> [!TIP]
+> 
+> [!IMPORTANT]
+> Please note that there is a known issue affecting the learning path of this page.  
+> The issue is currently under investigation.
+tasks:
+  - task 1 2 3
+studyGuide:
+  - uid: learn.wwl.describe-azure-management-governance
+resources:
+  - title: Study guide for Applied Skills
+    description: This study guide provides a summary of the topics covered in the assessment lab, along with additional resources to help you prepare.
+    href: https://aka.ms/APPSKILLSID-StudyGuide
+  - title: Applied Skills poster
+    description: Explore all credentials in a concise guide.
+    href: https://aka.ms/AppliedSkillsPoster
+  - title: Choose your Microsoft Credential
+    description: Microsoft Applied Skills or Microsoft Certifications? Choose the path that fits your career goals, desired skillset, and schedule.
+    href: https://aka.ms/ChooseYourMicrosoftCredential
+  - title: Support for Credentials
+    description: Get help through Microsoft Credentials support forums. A forum moderator will respond in one business day, Monday–Friday.
+    href: https://learn.microsoft.com/credentials/support/help
